@@ -1,3 +1,5 @@
+from random import randint
+
 # Exploding dice
 def roll_d10():
     roll_d10_result = randint(1,10)
