@@ -2,15 +2,15 @@
 
 ## Basis
 
-You use 10-sided dices.
+You use 10-sided dice.
 If your result is 10, you reroll and add it.
-You roll Trait + Skill number of dices against a Target Number (TN).
-You keep Trait dices.
+You roll Trait + Skill number of dice against a Target Number (TN).
+You keep Trait.
 For example: You make an Agility + Iaijutsu roll to check if you hit an opponent.
 You have 3 in Agility, and 2 in Iaijutsu.
-You roll 3+2=5 10-sided dices against a TN of 15.
+You roll 3+2=5 10-sided dice against a TN of 15.
 Your result: 1, 9, 4, 6, 18 (10+8)
-You keep 3 dices and add them up to.
+You keep 3 dice and add them up to.
 Your result is 18 + 9 + 6 = 33 against 15.
 You are succesful at hitting your opponent.
 
